@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\obj\Debug\net7.0\task_68.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\obj\Debug\net7.0\task_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\obj\Debug\net7.0\task_68.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\obj\Debug\net7.0\task_68.AssemblyInfo.cs
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\obj\Debug\net7.0\task_68.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\bin\Debug\net7.0\task_68.exe
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\bin\Debug\net7.0\task_68.deps.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\bin\Debug\net7.0\task_68.runtimeconfig.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\bin\Debug\net7.0\task_68.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\bin\Debug\net7.0\task_68.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\obj\Debug\net7.0\task_68.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\obj\Debug\net7.0\refint\task_68.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\obj\Debug\net7.0\task_68.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\obj\Debug\net7.0\task_68.genruntimeconfig.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\9_semi\task_68\obj\Debug\net7.0\ref\task_68.dll
